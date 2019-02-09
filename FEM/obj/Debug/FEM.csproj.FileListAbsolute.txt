@@ -1,0 +1,10 @@
+E:\Projects\Windows Applications\FEM\FEM\bin\Debug\fem.exe
+E:\Projects\Windows Applications\FEM\FEM\bin\Debug\fem.pdb
+E:\Projects\Windows Applications\FEM\FEM\bin\Debug\MathNet.Numerics.dll
+E:\Projects\Windows Applications\FEM\FEM\bin\Debug\System.Numerics.dll
+E:\Projects\Windows Applications\FEM\FEM\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Windows Applications\FEM\FEM\obj\Debug\FEM.Form1.resources
+E:\Projects\Windows Applications\FEM\FEM\obj\Debug\FEM.Properties.Resources.resources
+E:\Projects\Windows Applications\FEM\FEM\obj\Debug\FEM.csproj.GenerateResource.Cache
+E:\Projects\Windows Applications\FEM\FEM\obj\Debug\fem.exe
+E:\Projects\Windows Applications\FEM\FEM\obj\Debug\fem.pdb
